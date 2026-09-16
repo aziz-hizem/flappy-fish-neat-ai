@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Background music (copyrighted, kept locally)
+music/
+
+# Tutorial code and raw art kept locally only
+_archive/
+
+# Editors / OS
+.vscode/
+.idea/
+.claude/
+desktop.ini
+Thumbs.db
+.DS_Store
