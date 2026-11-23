@@ -2,7 +2,7 @@
 
 An underwater take on Flappy Bird, built with **Pygame**, plus an AI that **teaches itself to play** using **NEAT** (NeuroEvolution of Augmenting Topologies). No training data and no hand-written strategy: a population of neural networks evolves, generation after generation, until the fish swim through the pipes on their own.
 
-![AI training (left) and human play (right)](docs/screenshots.png)
+![The AI training: a generation of neural-network fish facing their first pipes](docs/screenshots.png)
 
 ## Two ways to run it
 
