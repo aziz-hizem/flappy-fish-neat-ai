@@ -15,9 +15,9 @@ import pygame
 
 from game import BASE_DIR, FLOOR_Y, FPS, HEIGHT, PIPE_SPAWN_X, WIDTH, Base, Fish, Pipe, draw_window
 
-MAX_GENERATIONS = 100
+MAX_GENERATIONS = 50
 # A perfect network would otherwise play forever and the generation would never end
-MAX_SCORE_PER_ROUND = 10
+MAX_SCORE_PER_ROUND = 50
 generation = 0
 
 
